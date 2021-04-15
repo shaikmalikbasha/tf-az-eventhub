@@ -1,0 +1,6 @@
+resourceGroupName     = "TerraformPOC"
+resourceGroupLocation = "eastus"
+eventHubNamespaceName = "cosEventHubNamespace"
+eventHubName          = "cosEvents"
+storageAccount        = "costestsa"
+eventsContainer       = "costrat-test-container"
